@@ -1,0 +1,22 @@
+{
+    "err_code": 0,
+    "err_msg": "success",
+    "data": [
+        {
+            "from": "sent",
+            "image":"https://pic1.zhimg.com/v2-eb77e3cdd3dadafbdffd1937d8e6d900_b.jpg"
+        },
+        {
+            "text": "hi?",
+            "from": "sent"
+        },
+        {
+            "text": "Hi, i am here",
+            "from": "received"
+        },
+        {
+            "from": "received",
+            "image":"https://pic3.zhimg.com/v2-6631859c00a742248c46ad4f8c1a4816_b.png"
+        }
+    ]
+}

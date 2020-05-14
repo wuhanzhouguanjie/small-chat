@@ -1,0 +1,14 @@
+{
+    "err_code": 0,
+    "err_msg": "success",
+    "data": [
+        {"nickname":"阿北","location":"北京","avatar":"1","header":"A"},
+        {"nickname":"阿木","location":"北京","avatar":"5","header":"A"},
+        {"nickname":"阿静","location":"江宁","avatar":"3","header":"A"},
+        {"nickname":"阿泰","location":"江宁","avatar":"6","header":"K"},
+        {"nickname":"阿静","location":"北京","avatar":"10","header":"K"},
+        {"nickname":"阿哲","location":"北京","avatar":"1","header":"M"},
+        {"nickname":"阿星","location":"江宁","avatar":"4","header":"O"},
+        {"nickname":"阿成","location":"云南","avatar":"5","header":"O"}
+    ]
+}
